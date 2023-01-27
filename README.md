@@ -25,7 +25,7 @@ y=np.array([1,3,2,5,7,8,8,9,10,12])
 plt.scatter(x,y)
 plt.show()
 xmean=np.mean(x)
-ymean=np.mean(y)
+ymea(base) sec@sec-HP-250-15-6-inch-G9-Notebook-PC:~/Univariate-Linear-Regression$ git clone n=np.mean(y)
 num=0
 den=0
 for i in range(len(x)):
@@ -42,9 +42,10 @@ plt.show()
 ```
 # OUTPUT
 
-![](./univariate.png)
+![](./K1.png)
+![](./k2.png)
 
-Result
+# Result
 
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
 
